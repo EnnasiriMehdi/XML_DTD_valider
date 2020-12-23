@@ -1,0 +1,11 @@
+void example22(char* filename);
+int checkPrologOK(char* filename);
+int checkPrologEndTag(char* filename);
+int checkWhiteSpace(char* filename);
+int checkDoubleOPChevron(char* filename);
+int checkDoubleClosingChevron(char* filename);
+int collectTags(char* filename);
+int hasProlog(char* filename);
+char* toBuffer(char* filename, char* bufferEntry);
+int checkWhiteSpaceChevron(char* filename);
+int checkWhiteSpaceSlash(char* filename);

@@ -1,0 +1,1 @@
+int isDocumentValid(char* filename);

@@ -1,0 +1,1 @@
+ <!ELEMENT ARTICLE (test,test,testaa)> <!ATTLIST ARTICLE OLAKETAL (test|test) #FIXED "rest"> ]> <ESGI rzer="zer"> <child> <abc> aer </abc> </child> </ESGI>

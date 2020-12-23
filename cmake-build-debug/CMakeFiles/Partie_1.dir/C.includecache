@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/LILOKE/Desktop/PC_save_1/3eme_AL/Langage_C_Avance/projet/Partie_1/functions.c
+functions.h
+C:/Users/LILOKE/Desktop/PC_save_1/3eme_AL/Langage_C_Avance/projet/Partie_1/functions.h
+stdio.h
+-
+malloc.h
+-
+string.h
+-
+stdbool.h
+-
+
+C:/Users/LILOKE/Desktop/PC_save_1/3eme_AL/Langage_C_Avance/projet/Partie_1/functions.h
+stdio.h
+-
+stdbool.h
+-
+
